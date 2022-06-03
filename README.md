@@ -14,10 +14,8 @@
 </p>
 
 <p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=java&logoColor=white"> 
-    <img src="https://img.shields.io/badge/C++-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=Linux&logoColor=white">  
-    
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
 </p><br>
 
 <p align="center">
@@ -25,10 +23,10 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/C#-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/CSharp-#99CC00?style=for-the-badge&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Redis-#DC382D?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 </p>
 
 <br>
