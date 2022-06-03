@@ -23,10 +23,10 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/CSharp-99CC00?style=flat-square&logo=sharp&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CSharp-99CC00?style=flat-square&logo=Sharp&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=sharp&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Redis-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
