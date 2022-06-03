@@ -23,10 +23,10 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/CSharp-#99CC00?style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/CSharp-#99CC00?style=for-the-badge&logo=SpringBoot&logoColor=white"></a>&nbsp
+    <img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white"> </a>&nbsp
     <img src="https://img.shields.io/badge/Mysql-#4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Redis-#DC382D?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-#DC382D?style=for-the-badge&logo=Amazon AWS&logoColor=white"></a>&nbsp
 </p>
 
 <br>
